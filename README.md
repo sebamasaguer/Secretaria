@@ -1,2 +1,2 @@
 # Secretaria
-secretaria de trabajo de la provincia de salta
+secretaria de trabajo de la provincia de
